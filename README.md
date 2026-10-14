@@ -69,7 +69,7 @@ AI-driven development (Claude Code, MCP) · Linux every day · games in Godot
   </tr>
 </table>
 
-More: [Guided Tour](https://github.com/maxfinnsjo/guided-tour) (maps, GPS, Wikidata) · [Subad](https://github.com/maxfinnsjo/subad) (Go, templ, HTMX) · [Early projects](https://github.com/maxfinnsjo/early-projects) (tutorials and experiments, 2020–2025)
+More: [Guided Tour](https://github.com/maxfinnsjo/guided-tour) (maps, GPS, Wikidata) · [Early projects](https://github.com/maxfinnsjo/early-projects) (tutorials and experiments, 2020–2025)
 
 ### 🧰 Tools
 
