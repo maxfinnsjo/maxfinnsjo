@@ -21,6 +21,7 @@ AI-driven development (Claude Code, MCP) · Linux every day · games in Godot
 
 - **Jobhunt**: a Flask app on the Swedish Public Employment Service API. Search, apply by email, Gmail sync, ~940 tests.
 - **SkandiNavet**: an AI-run Nordic news channel in Text-TV style.
+- **Boring Trotter**: tests betting strategies for Swedish trotting against two years of real race data, with leakage checks and live practice bets. No real money, ever. Streamlit dashboard.
 - **Alien Angler** and **Space Surfer**: 3D roguelites in Godot 4. Surreal fishing, and surfing the currents of open space.
 - **Station**: a KDE Plasma theme generated from your wallpaper: colours, icons, cursors, terminals.
 - **The home lab**: a phone app for habits and money with open banking and step data, an always-on AI assistant, local LLMs on an RTX 3060.
