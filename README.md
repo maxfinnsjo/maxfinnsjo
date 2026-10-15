@@ -6,20 +6,20 @@ Twenty years in IT: dotcom-era web design, support and ITIL at SEB and Karolinsk
 
 **Portfolio:** [max.contigomedia.se/portfolio](https://max.contigomedia.se/portfolio/)
 
-### 🛠️ What I'm building now
+### 🛠️ What I build
 
 - **[ISAKKE](https://github.com/maxfinnsjo/isakke)** · [live demo](https://max.contigomedia.se/isakke): ask about your rights at work in Sweden and an AI answers from the actual labour law, citing the exact paragraph (RAG). Runs fully local or on free-tier models.
-- **TBS Booking System** and **Steps & Stops Tours**: a walking-tour company built end to end: brand, website, a WordPress booking plugin and the [Guided Tour](https://github.com/maxfinnsjo/guided-tour) app the guide carries on the day.
-- **Jobhunt**: a Flask app on the Swedish Public Employment Service API. Search, apply by email, Gmail sync, ~940 tests.
+- **[Steps & Stops Tours](https://www.stepsandstopstours.se/)**: a Stockholm walking-tour company built end to end. Brand, website, the **TBS Booking System** WordPress plugin ([calendar](https://www.stepsandstopstours.se/tbs-calendar/)) and the **[Guided Tour](https://maxfinnsjo.github.io/guided-tour/)** app the guide carries on the day.
 - **SkandiNavet**: a Nordic news channel in Text-TV style, written and read by AI anchors. [Watch it live](https://max.contigomedia.se/skandinavet).
-- **Boring Trotter**: tests betting strategies for Swedish trotting against two years of real race data, with leakage checks and live practice bets. No real money, ever. Streamlit dashboard.
+- **Jobhunt**: a Flask app on the Swedish Public Employment Service API. Search, apply by email, Gmail sync, ~940 tests.
+- **Boring Trotter**: tests betting strategies for Swedish trotting against two years of real race data, with leakage checks and practice bets. No real money, ever. Streamlit dashboard.
 - **Alien Angler** and **Space Surfer**: 3D roguelites in Godot 4. Surreal fishing, and surfing the currents of open space.
 - **Station**: a KDE Plasma theme generated from your wallpaper: colours, icons, cursors, terminals.
 - **The home lab**: a phone app for habits and money with open banking and step data, and local LLMs on an RTX 3060.
 
-<sub>Most of these keep their source private; the portfolio shows them with screenshots and live links.</sub>
+<sub>Several of these keep their source private. The [portfolio](https://max.contigomedia.se/portfolio/) shows most of them with screenshots.</sub>
 
-### 🕹️ Things you can open
+### 🕹️ Other things you can open
 
 <table>
   <tr>
@@ -60,11 +60,11 @@ Twenty years in IT: dotcom-era web design, support and ITIL at SEB and Karolinsk
   </tr>
 </table>
 
-More: [Guided Tour](https://github.com/maxfinnsjo/guided-tour) (maps, GPS, Wikidata) · [Early projects](https://github.com/maxfinnsjo/early-projects) (tutorials and experiments, 2020–2025)
+More: [Early projects](https://github.com/maxfinnsjo/early-projects) (tutorials and experiments, 2020–2025)
 
 ### 🧰 Tools
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### 📫 Say hi
 
