@@ -1,32 +1,23 @@
-```text
-    __  ___              _______                    _     
-   /  |/  /___ __  __   / ____(_)___  ____  _____  (_)___ 
-  / /|_/ / __ `/ |/_/  / /_  / / __ \/ __ \/ ___/ / / __ \
- / /  / / /_/ />  <   / __/ / / / / / / / (__  ) / / /_/ /
-/_/  /_/\__,_/_/|_|  /_/   /_/_/ /_/_/ /_/____/_/ /\____/ 
-                                             /___/        
-```
+<img src="banner.svg" alt="Max Finnsjö" width="580">
 
-```console
-$ whoami
-Max · developer · Stockholm, Sweden
-$ uptime
-20+ years in IT: dotcom-era web design, support and ITIL at SEB and Karolinska,
-nine years of freelance web, full-stack since. Building with AI these days.
-$ cat now.txt
-AI-driven development (Claude Code, MCP) · Linux every day · games in Godot
-```
+**Developer in Stockholm. I build complete solutions, from the first idea to the server they run on.**
+
+Twenty years in IT: dotcom-era web design, support and ITIL at SEB and Karolinska, nine years of freelance web and e-commerce, full-stack since. Web apps, WordPress plugins, automations and AI tools, built end to end and kept running on my own Linux servers.
+
+**Portfolio:** [max.contigomedia.se/portfolio](https://max.contigomedia.se/portfolio/)
 
 ### 🛠️ What I'm building now
 
+- **[ISAKKE](https://github.com/maxfinnsjo/isakke)** · [live demo](https://max.contigomedia.se/isakke): ask about your rights at work in Sweden and an AI answers from the actual labour law, citing the exact paragraph (RAG). Runs fully local or on free-tier models.
+- **TBS Booking System** and **Steps & Stops Tours**: a walking-tour company built end to end: brand, website, a WordPress booking plugin and the [Guided Tour](https://github.com/maxfinnsjo/guided-tour) app the guide carries on the day.
 - **Jobhunt**: a Flask app on the Swedish Public Employment Service API. Search, apply by email, Gmail sync, ~940 tests.
-- **SkandiNavet**: an AI-run Nordic news channel in Text-TV style.
+- **SkandiNavet**: a Nordic news channel in Text-TV style, written and read by AI anchors. [Watch it live](https://max.contigomedia.se/skandinavet).
 - **Boring Trotter**: tests betting strategies for Swedish trotting against two years of real race data, with leakage checks and live practice bets. No real money, ever. Streamlit dashboard.
 - **Alien Angler** and **Space Surfer**: 3D roguelites in Godot 4. Surreal fishing, and surfing the currents of open space.
 - **Station**: a KDE Plasma theme generated from your wallpaper: colours, icons, cursors, terminals.
-- **The home lab**: a phone app for habits and money with open banking and step data, an always-on AI assistant, local LLMs on an RTX 3060.
+- **The home lab**: a phone app for habits and money with open banking and step data, and local LLMs on an RTX 3060.
 
-<sub>These live in private repos for now. Showcases are on the way.</sub>
+<sub>Most of these keep their source private; the portfolio shows them with screenshots and live links.</sub>
 
 ### 🕹️ Things you can open
 
